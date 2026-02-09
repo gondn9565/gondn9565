@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi 👋, I'm Neha Gond<br>A passionate Software developer from India
 
 
